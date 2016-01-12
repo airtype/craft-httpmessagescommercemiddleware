@@ -49,7 +49,7 @@ class HttpMessagesCommerceMiddlewarePlugin extends BasePlugin
     /**
      * Register Http Messages Middleware
      *
-     * @return
+     * @return string Middleware Handle
      */
     public function registerHttpMessagesMiddlewareHandle()
     {
@@ -59,7 +59,7 @@ class HttpMessagesCommerceMiddlewarePlugin extends BasePlugin
     /**
      * Register Http Messages Middleware
      *
-     * @return
+     * @return string Middlware Class
      */
     public function registerHttpMessagesMiddlewareClass()
     {
