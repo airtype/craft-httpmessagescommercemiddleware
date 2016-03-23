@@ -2,8 +2,6 @@
 
 namespace Craft;
 
-Craft::import('plugins.httpmessagescommercemiddleware.vendor.autoload', true);
-
 class HttpMessagesCommerceMiddlewarePlugin extends BasePlugin
 {
     /**
