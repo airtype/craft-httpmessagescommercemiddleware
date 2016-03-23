@@ -1,6 +1,9 @@
 {
-    "name": "airtype/httpmessagescommercemiddleware",
+    "name": "airtype/craft-httpmessagescommercemiddleware",
     "type": "craft-plugin",
+    "extra": {
+        "installer-name": "httpmessagescommercemiddleware"
+    },
     "authors": [
         {
             "name": "Wes Rice",
